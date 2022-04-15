@@ -10,7 +10,7 @@
   "SYMBOL": "APE",
   "MAX_SUPPLY":13500,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST":200000,
+  "DISPLAY_COST":2,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/thegoldenape",
