@@ -9,9 +9,9 @@
   "NFT_NAME": "The Golden Ape",
   "SYMBOL": "APE",
   "MAX_SUPPLY":13500,
-  "WEI_COST": 4000000000000000000,
+  "WEI_COST": 400000000,
   "DISPLAY_COST":2,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 30000000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/thegoldenape",
   "SHOW_BACKGROUND": true
